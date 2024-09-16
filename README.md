@@ -4,7 +4,7 @@ RAG (Retrieval-Augmented Generation) is a technique that combines document retri
 
 ## Project Summary
 
-I was given a data challenge limited to only two days, during which I needed to implement a RAG pipeline. Given a specific case, the system was required to issue a verdict based on the documents I retrieved and the prompt sent to the LLM (Large Language Model).
+In this project, I developed a Retrieval-Augmented Generation (RAG) pipeline designed to answer legal questions based on previous verdicts. The pipeline integrates document retrieval and natural language generation to provide informed responses. The time allocated to me for this work was only two days, which made the challenge even more intense and rewarding.
 
 ## Repository Contents
 
