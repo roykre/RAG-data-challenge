@@ -8,7 +8,7 @@ In this project, I developed a Retrieval-Augmented Generation (RAG) pipeline des
 
 ## Repository Contents
 
-- **presentation/** - This presentation documents the entire process I went through during the project, the challenges I faced, how I solved them, and a performance evaluation.
+- **presentation.pdf** - This presentation documents the entire process I went through during the project, the challenges I faced, how I solved them, and a performance evaluation.
 - **rag_pipeline.ipynb** - The Jupyter Notebook containing the code for the RAG pipeline.
 
 ## Requirements
